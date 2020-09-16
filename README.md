@@ -1,2 +1,6 @@
 # React-LeafLet-Drilldown-Map
-Created with CodeSandbox
+
+This is example of Drilldown geomap for India geo json using Leaflet.
+
+
+
