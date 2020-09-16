@@ -10,7 +10,7 @@ export default function App() {
       <ChoroplethMapDrillDown />
       <br />
       <p>
-        <sup>*</sup>Color change after mouse out is due rendom color selction in
+        <sup>*</sup>Color change after mouse out is due random color selction in
         style of geomap.
       </p>
     </div>
